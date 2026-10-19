@@ -1,5 +1,5 @@
 # group
-public class Hero extends Character{
+public class Hero{
 	
 	public Hero() {
 		this("ミナト",100);
