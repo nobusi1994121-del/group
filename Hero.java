@@ -16,7 +16,6 @@ public class Hero{
 	public void run() {
 		System.out.println(this.getName() + "は逃げ出した！");
 	}
-
 }
 
 
