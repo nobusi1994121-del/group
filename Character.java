@@ -12,7 +12,7 @@ public abstract class Character {
 	}
 	public void attack (Matongo m) {
 			System.out.println(this.name + "の攻撃！");
-			System.out.println("敵に??ポイントのダメージを与えた！");
+			System.out.println("敵に??ポイントのダメージを与えたyo！");
 	}
 
 }
